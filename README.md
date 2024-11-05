@@ -1,3 +1,3 @@
 ## **Contacts book**
 
-<!-- <img src="./Screenshot.png" /> -->
+<img src="./Screenshot.png" />
